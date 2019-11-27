@@ -11,5 +11,6 @@ Flutter Clock Competition [https://flutter.dev/clock](https://flutter.dev/clock)
 **Full Video:** [https://fireship.io/lessons/build-a-binary-clock-flutter/](https://fireship.io/lessons/build-a-binary-clock-flutter/)
 
 Thank You for motivating me for re-creating this project.
+
 ![Screenshot](https://raw.githubusercontent.com/ianujsinghx18/flutter-clock/master/images/Screenshot_20191127-130920.png)
 **
